@@ -1,4 +1,4 @@
-#04URLからのパラメータを使おう1
+#05URLからのパラメータを使おう1
 
 require 'sinatra'
 require 'sinatra/reloader'
